@@ -1,4 +1,4 @@
-package mad9132.rgb_a;
+package mad9132.hsv;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
@@ -6,15 +6,11 @@ import android.app.DialogFragment;
 import android.content.DialogInterface;
 import android.os.Bundle;
 
-/**
- * Create an AboutDialogFragment displaying your full name and username.
- *
- * TODO all students: please read the following documentation to learn about Dialogs.
- * Reference:
- * Android Dialogs @ http://developer.android.com/guide/topics/ui/dialogs.html
- *
- * @author Gerald.Hurdle@AlgonquinCollege.com
- */
+/*
+* @author John Desjardins (desj0251)
+* @File AboutDialogFragment.java
+* @version 1.0.0
+*/
 
 public class AboutDialogFragment extends DialogFragment {
     @Override
